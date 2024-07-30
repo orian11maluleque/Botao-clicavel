@@ -11,6 +11,6 @@ window.addEventListener('DOMContentLoaded', () => {
 
     button.addEventListener('mouseover', () => {
         button.style.left = Math.floor(Math.random() * (maxWidht + 1)) + 'px';
-        button.style.top = Math.floor(Math.random() * (maxHeight + 1)) + 'px'; 
+       
     })
 });

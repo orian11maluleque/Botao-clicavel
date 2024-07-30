@@ -13,17 +13,14 @@ header{
     text-align: center;
     padding: 15px;
 }
-.degrau{
-    color: white;
-    text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.459);
-}
+
 main{
     background-color: #8AA6A3;
     padding: 15px;
     text-align: justify;
     margin: auto;
-    max-width: 600px;
-    min-width: 400px;
+    max-width: 800px;
+    min-width: 350px;
 }
 h2{
     color: #10403B;
@@ -31,7 +28,9 @@ h2{
     margin-bottom: 5px;
 }
 main>p{
-    padding: 5px;
+    margin: 15px 0px;
+    line-height: 1.3em;
+    text-indent: 8px;
 }
 
 footer{
@@ -41,4 +40,12 @@ footer{
 }
 footer>p{
     padding: 8px;
+}
+.degrau{
+    color: white;
+    text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.459);
+}
+.nome{
+    color: #10403B;
+    font-weight: bolder;
 }

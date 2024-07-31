@@ -21,6 +21,7 @@ main{
     margin: auto;
     max-width: 800px;
     min-width: 350px;
+    padding-bottom: 50px;
 }
 h2{
     color: #10403B;
@@ -65,8 +66,7 @@ footer>p{
     padding: 5px;
 
     position: absolute;
-    left: 600px;
-    bottom: -40px;
+    
     
 }
 form{

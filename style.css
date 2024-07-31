@@ -27,10 +27,15 @@ h2{
     margin-top: 3px;
     margin-bottom: 5px;
 }
-main>p{
+main>ol{
     margin: 15px 0px;
-    line-height: 1.3em;
+    line-height: 1.5em;
     text-indent: 8px;
+}
+main>p{
+    margin: 8px 0px;
+    text-indent: 8px;
+    
 }
 
 footer{

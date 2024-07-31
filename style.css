@@ -28,14 +28,14 @@ h2{
     margin-bottom: 5px;
 }
 main>ol{
-    margin: 15px 0px;
+    margin: 8px 0px;
     line-height: 1.5em;
     text-indent: 8px;
 }
 main>p{
     margin: 8px 0px;
     text-indent: 8px;
-    
+
 }
 
 footer{
@@ -66,6 +66,9 @@ footer>p{
 
     position: absolute;
     left: 600px;
-    bottom: 1px;
+    bottom: -40px;
     
+}
+form{
+    margin: 0px 0px 0px 20px;
 }
